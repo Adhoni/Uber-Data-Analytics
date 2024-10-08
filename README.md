@@ -80,14 +80,14 @@ The data is transformed into a **star schema** format, which includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/uber-trip-data-analysis.git
-   ```bash
+   
 2. Install the necessary dependencies::
    ```bash
    pip install -r requirements.txt
-   ```bash
+   
 3. Open the Jupyter Notebook:
    ```bash
    jupyter notebook
-   ```bash
+   
 4. Run the notebook to perform data processing and visualize the star schema in action.
 
